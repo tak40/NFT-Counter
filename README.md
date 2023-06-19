@@ -1,4 +1,4 @@
-# co3fc40e08dd393e82c1fd642
+# NFT Counter
 
 Quick start:
 
